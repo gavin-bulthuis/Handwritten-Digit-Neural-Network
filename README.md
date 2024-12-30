@@ -49,12 +49,6 @@ The CNN consists of:
 - **Training Accuracy**: 94.58%
 - **Test Accuracy**: 94.97%
 
-## Misclassified Examples
-The project identifies and visualizes 5 misclassified images, highlighting the model's limitations and areas for improvement.
-
-### Visualization
-![Misclassified Examples](misclassified_images.png)
-
 ## Usage
 ### Requirements
 - Python 3.8+
